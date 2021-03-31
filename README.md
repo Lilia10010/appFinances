@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto: Aplicativo de finanças, controle de entrada e saída</h1>
+<h3 align="center"> Projeto: Aplicativo de finanças, controle de entrada e saída</h3>
 
 <!-- <h2 align="center"></h2>
 
